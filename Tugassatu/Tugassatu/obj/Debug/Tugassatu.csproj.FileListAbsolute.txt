@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\bin\Debug\Tugassatu.exe.config
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\bin\Debug\Tugassatu.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\bin\Debug\Tugassatu.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\obj\Debug\Tugassatu.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\obj\Debug\Tugassatu.exe
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\obj\Debug\Tugassatu.pdb
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\obj\Debug\Tugassatu.MainForm.resources
+C:\Users\HP\Documents\SharpDevelop Projects\Tugassatu\Tugassatu\obj\Debug\Tugassatu.csproj.GenerateResource.Cache
